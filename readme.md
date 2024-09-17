@@ -13,3 +13,12 @@
 Tablas
 1. Para mostrar contenido tabulado
 2. Se usan para mostrar informacion en el formato(fila-columna)
+
+
+
+
+Atributos de video :
+
+muted : Silencio
+autoplay : Video se reproduce automaticamente
+loop : termina y vuelve a reproducir
